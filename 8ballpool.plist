@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://appvalley.vip/ipa/8ballpoolmodhack.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.amuyea.8poolball</string>
+                <key>bundle-version</key>
+                <string>3.8.5</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>www.a1iraqi.com 8BallPool++ by Abood ALiraQi twitter : @a1iraqi „„ﬂ‰ „ «»⁄… ·Õ”«»Ì ›Ì «· ÊÌ — ·«‰ „Õ «Ã œ⁄„ﬂ„</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
